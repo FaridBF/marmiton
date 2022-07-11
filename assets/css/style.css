@@ -1,0 +1,154 @@
+body {
+  font-size: 16px;
+  background-color: #efefef;
+  font-family: 'Open Sans', sans-serif;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+/* general rules*/
+
+.container {
+  width: 1024px;
+  margin: auto;
+  padding: 0;
+}
+
+div {
+  padding: 20px;
+}
+
+section {
+  background-color: white;
+  padding: 60px, 30px;
+  border-radius: 20px;
+}
+
+p {
+  line-height: 22px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 50px;
+  color: #393c6c;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: bold;
+  color: #f3735f;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 18px;
+  color: #393c6c;
+  line-height: 22px;
+  font-weight: bold;
+}
+
+/* header*/
+
+header {
+  background-color: white;
+  border-bottom: solid 1px;
+  border-color: #f3735f;
+  height: 80px;
+}
+header img {
+  width: 200px;
+  margin-top: 24px;
+}
+
+/* section description*/
+
+.recipe {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.recipe-title p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p.recipe-description {
+  font-size: 13.5px;
+  font-weight: 400;
+  line-height: 14.06px;
+  font-family: Roboto;
+  margin-top: 10px;
+}
+
+.recipe-duration {
+  width: 400px;
+  height: 45px;
+  background-color: #8a98b1;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+}
+
+.style-recipe-duration {
+  color: white;
+  font-weight: bold;
+  font-size: 22px;
+  margin: 0;
+}
+
+/* section illustration*/
+
+.illustration {
+  margin-top: 15px;
+}
+
+.illustation_image {
+  display: flex;
+  justify-content: space-around;
+  padding: 0;
+}
+
+.size-image {
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+}
+
+/* section ingredients*/
+
+li {
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+}
+/* section preparation*/
+
+.bold {
+  font-weight: bold;
+}
+
+/* footer*/
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+}
+
+.style-footer {
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+}
