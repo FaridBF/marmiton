@@ -12,7 +12,7 @@
 - Respecter la maquette initiale fournie via l'outil [Figma](https://www.figma.com/fr/).
 
 **Fonctionnalités souhaitées:**
-La maquette devra respecter un chahier des charges (police, structure HTML, taille d'images etc...).
+La maquette devra respecter un cahier des charges (police, structure HTML, taille d'images etc...).
 
 Vous pouvez retrouver la [maquette proposée](https://www.figma.com/file/5FH3NgzJWAsONNPIEQT1vJ/marmiton?node-id=0%3A1)
 
